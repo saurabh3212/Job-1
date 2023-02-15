@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Job-1
+  annotations:
+    github.com/project-slug: Saurabh3212/Job-1
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
