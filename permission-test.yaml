@@ -10,3 +10,6 @@ metadata:
   tags:
     - permission
     - sample
+  spec:
+    type: website
+    
