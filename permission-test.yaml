@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  namespace: default
+  name: permission-test
+  title: Permission
+  description: This is a sample project for testing Permission.
+  owner: saurabh3212
+  lifecycle: experimental
+  tags:
+    - permission
+    - sample
